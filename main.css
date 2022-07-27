@@ -1,0 +1,13 @@
+.boton{
+  text-decoration: none;
+  border: 1px solid white;
+  background-color: gray;
+  
+}
+a{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body{
+  background-color: gray;
+}
